@@ -1,0 +1,17 @@
+C:\Users\jerel\source\repos\materiw5\materiw5\bin\Debug\net6.0-windows\materiw5.exe
+C:\Users\jerel\source\repos\materiw5\materiw5\bin\Debug\net6.0-windows\materiw5.deps.json
+C:\Users\jerel\source\repos\materiw5\materiw5\bin\Debug\net6.0-windows\materiw5.runtimeconfig.json
+C:\Users\jerel\source\repos\materiw5\materiw5\bin\Debug\net6.0-windows\materiw5.dll
+C:\Users\jerel\source\repos\materiw5\materiw5\bin\Debug\net6.0-windows\materiw5.pdb
+C:\Users\jerel\source\repos\materiw5\materiw5\obj\Debug\net6.0-windows\materiw5.csproj.AssemblyReference.cache
+C:\Users\jerel\source\repos\materiw5\materiw5\obj\Debug\net6.0-windows\materiw5.Form1.resources
+C:\Users\jerel\source\repos\materiw5\materiw5\obj\Debug\net6.0-windows\materiw5.csproj.GenerateResource.cache
+C:\Users\jerel\source\repos\materiw5\materiw5\obj\Debug\net6.0-windows\materiw5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerel\source\repos\materiw5\materiw5\obj\Debug\net6.0-windows\materiw5.AssemblyInfoInputs.cache
+C:\Users\jerel\source\repos\materiw5\materiw5\obj\Debug\net6.0-windows\materiw5.AssemblyInfo.cs
+C:\Users\jerel\source\repos\materiw5\materiw5\obj\Debug\net6.0-windows\materiw5.csproj.CoreCompileInputs.cache
+C:\Users\jerel\source\repos\materiw5\materiw5\obj\Debug\net6.0-windows\materiw5.dll
+C:\Users\jerel\source\repos\materiw5\materiw5\obj\Debug\net6.0-windows\refint\materiw5.dll
+C:\Users\jerel\source\repos\materiw5\materiw5\obj\Debug\net6.0-windows\materiw5.pdb
+C:\Users\jerel\source\repos\materiw5\materiw5\obj\Debug\net6.0-windows\materiw5.genruntimeconfig.cache
+C:\Users\jerel\source\repos\materiw5\materiw5\obj\Debug\net6.0-windows\ref\materiw5.dll
